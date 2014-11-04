@@ -9,9 +9,10 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Caelan.Frameworks.Wcf</RootNamespace>
     <AssemblyName>Caelan.Frameworks.Wcf</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <TargetFSharpCoreVersion>4.3.1.0</TargetFSharpCoreVersion>
     <Name>Caelan.Frameworks.Wcf</Name>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
